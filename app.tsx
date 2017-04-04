@@ -5,6 +5,5 @@ class App extends React.Component<{},{}> {
    }
 }
 
-function render() {
-    ReactDOM.render(<App/>, document.getElementById('app'));
-}
+ReactDOM.render(<App/>, document.getElementById('app'));
+
