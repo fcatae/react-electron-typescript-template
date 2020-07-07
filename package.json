@@ -13,7 +13,7 @@
   "repository": "",
   "author": "GitHub",
   "devDependencies": {
-    "electron": "^1.4.1",
+    "electron": "^9.1.0",
     "electron-packager": "^8.6.0",
     "png-to-ico": "^1.0.2",
     "typescript": "^2.2.2"
